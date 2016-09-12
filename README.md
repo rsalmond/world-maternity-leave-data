@@ -1,6 +1,6 @@
-# world-maternity-leave-data
+# Maternity Leave Data
 
-Collection of data about maternity leave policy around the world.
+Collection of data about maternity leave policy around the world. Includes three fields: country, days of leave, percentage of salary paid.
 
 #Sources:
  * https://en.wikipedia.org/wiki/Parental_leave
