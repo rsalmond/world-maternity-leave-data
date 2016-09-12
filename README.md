@@ -9,11 +9,11 @@ Collection of data about maternity leave policy around the world. Includes three
 
 # Notes:
  * Where possible the WORST case has been used.
-   * Vietnam offers 4-6 months depending on circumstances, displayed as 4.
-   * Libya pays 50% for employed women, 100% for *self* employed women, displayed as 50%.
-   * Canada pays 50%-80% depending on income, displayed as 50%.
    * Bosnia and Herzegovina pay 50%-100%, displayed as 50%.
+   * Canada pays 50%-80% depending on income, displayed as 50%.
+   * Libya pays 50% for employed women, 100% for *self* employed women, displayed as 50%.
    * Saudia Arabia pays 50%-100%, displayed as 50%.
+   * Vietnam offers 4-6 months depending on circumstances, displayed as 4.
 
  * Where the amount of pay decreases over time the pay has been normalized over the time off.
   * Albania pays 21 weeks at 80% and another 31 at 50%, displayed as 62.1%.
@@ -44,9 +44,9 @@ Collection of data about maternity leave policy around the world. Includes three
  * Seychelles: flat rate for 12 weeks, unpaid remainder.
 
 #Fine print:
+ * Belgium: pays 76.8% (normalized) up to a ceiling.
  * Candada: pays between 55-80% depending on income up to a max of CAD $524 / week.
  * Chile: 100% up to a ceiling.
- * Belgium: pays 76.8% (normalized) up to a ceiling.
  * Ireland: pays 49.5% (normalized) up to a celiing.
  * Libya: 100% for self employed women, 50% for everyone else.
  * Monaco: 90% up to a ceiling.
@@ -56,6 +56,9 @@ Collection of data about maternity leave policy around the world. Includes three
  * Qatar: only available for civil servants.
  * Russia: 100% up to a ceiling.
  * Slovenia: 100% up to a ceiling.
- * Sweden: 80% up to a ceiling.
- * Switzerland: 80% up to a ceiling.
  * Spain: 100% up to a ceiling.
+ * Sweden: 80% up to a ceiling.
+ * Switzerland: 80% up to a ceiling
+
+#Disclaimer:
+I put in a fair amount of work to make this as accurate and normalized as possible but I did this on a lark, I'm sure it's not perfect. If you find a mistake please let me know!
