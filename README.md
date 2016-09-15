@@ -3,8 +3,8 @@
 Collection of data about maternity leave policy around the world. Includes three fields: country, days of leave, percentage of salary paid.
 
 #Sources:
- * https://en.wikipedia.org/wiki/Parental_leave
- * http://data.un.org/DocumentData.aspx?id=344
+ * [Wikipedia](https://en.wikipedia.org/wiki/Parental_leave) (current-ish? I dunno it's wikipedia!)
+ * [United Nations](http://data.un.org/DocumentData.aspx?id=344) (july 2013)
 
 
 # Notes:
